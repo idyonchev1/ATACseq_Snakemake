@@ -1,0 +1,10 @@
+name: tools
+channels:
+  - bioconda 
+dependencies:
+  - deeptools
+  - ucsc-bedgraphtobigwig
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /storage/eagen/home/u248674/.conda/envs/tools
